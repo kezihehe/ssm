@@ -49,6 +49,9 @@
 		</property>
 	</bean>
 
+	<!-- swagger 配置 -->
+	<!-- 使用 Swagger Restful API文档时，添加此注解 -->
+	<mvc:default-servlet-handler />
 
 
 </beans>
